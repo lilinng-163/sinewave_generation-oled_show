@@ -1,0 +1,5 @@
+D:/MCU/stm32/stm32_practise/CMake_HAL/singal_generate/MiddleWare/FreeRTOS/Src/list.c:48:6:vListInitialise	16	static
+D:/MCU/stm32/stm32_practise/CMake_HAL/singal_generate/MiddleWare/FreeRTOS/Src/list.c:73:6:vListInitialiseItem	16	static
+D:/MCU/stm32/stm32_practise/CMake_HAL/singal_generate/MiddleWare/FreeRTOS/Src/list.c:85:6:vListInsertEnd	24	static
+D:/MCU/stm32/stm32_practise/CMake_HAL/singal_generate/MiddleWare/FreeRTOS/Src/list.c:115:6:vListInsert	24	static
+D:/MCU/stm32/stm32_practise/CMake_HAL/singal_generate/MiddleWare/FreeRTOS/Src/list.c:183:13:uxListRemove	24	static

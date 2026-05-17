@@ -1,0 +1,2 @@
+D:/MCU/stm32/stm32_practise/CMake_HAL/singal_generate/Core/Src/system_stm32f1xx.c:175:6:SystemInit	4	static
+D:/MCU/stm32/stm32_practise/CMake_HAL/singal_generate/Core/Src/system_stm32f1xx.c:224:6:SystemCoreClockUpdate	24	static

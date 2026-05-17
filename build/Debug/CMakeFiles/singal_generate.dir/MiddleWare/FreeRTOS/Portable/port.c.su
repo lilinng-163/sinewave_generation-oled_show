@@ -1,0 +1,11 @@
+D:/MCU/stm32/stm32_practise/CMake_HAL/singal_generate/MiddleWare/FreeRTOS/Portable/port.c:174:15:pxPortInitialiseStack	24	static
+D:/MCU/stm32/stm32_practise/CMake_HAL/singal_generate/MiddleWare/FreeRTOS/Portable/port.c:194:13:prvTaskExitError	16	static
+D:/MCU/stm32/stm32_practise/CMake_HAL/singal_generate/MiddleWare/FreeRTOS/Portable/port.c:220:6:SVC_Handler	0	static
+D:/MCU/stm32/stm32_practise/CMake_HAL/singal_generate/MiddleWare/FreeRTOS/Portable/port.c:240:13:prvPortStartFirstTask	0	static
+D:/MCU/stm32/stm32_practise/CMake_HAL/singal_generate/MiddleWare/FreeRTOS/Portable/port.c:261:12:xPortStartScheduler	8	static
+D:/MCU/stm32/stm32_practise/CMake_HAL/singal_generate/MiddleWare/FreeRTOS/Portable/port.c:358:6:vPortEndScheduler	4	static
+D:/MCU/stm32/stm32_practise/CMake_HAL/singal_generate/MiddleWare/FreeRTOS/Portable/port.c:366:6:vPortEnterCritical	16	static
+D:/MCU/stm32/stm32_practise/CMake_HAL/singal_generate/MiddleWare/FreeRTOS/Portable/port.c:383:6:vPortExitCritical	16	static
+D:/MCU/stm32/stm32_practise/CMake_HAL/singal_generate/MiddleWare/FreeRTOS/Portable/port.c:395:6:PendSV_Handler	0	static
+D:/MCU/stm32/stm32_practise/CMake_HAL/singal_generate/MiddleWare/FreeRTOS/Portable/port.c:432:6:xPortSysTickHandler	16	static
+D:/MCU/stm32/stm32_practise/CMake_HAL/singal_generate/MiddleWare/FreeRTOS/Portable/port.c:626:32:vPortSetupTimerInterrupt	4	static

@@ -1,0 +1,5 @@
+D:/MCU/stm32/stm32_practise/CMake_HAL/singal_generate/Application/Src/App_task.cpp:19:5:int led_task(void*)	24	static
+D:/MCU/stm32/stm32_practise/CMake_HAL/singal_generate/Application/Src/App_task.cpp:35:5:int uart_task(void*)	24	static
+D:/MCU/stm32/stm32_practise/CMake_HAL/singal_generate/Application/Src/App_task.cpp:50:5:int oled_task(void*)	1304	static
+D:/MCU/stm32/stm32_practise/CMake_HAL/singal_generate/Application/Src/App_task.cpp:71:5:int start_task(void*)	24	static
+D:/MCU/stm32/stm32_practise/CMake_HAL/singal_generate/Application/Src/App_task.cpp:100:5:int start_freertos()	16	static
